@@ -8,7 +8,7 @@ Please make sure the data prerequisites are met by following instructions presen
 ### Map Token
 Please obtain create a free [Mapbox account](https://account.mapbox.com/auth/signup/) and paste the value of your "Default public token" into the `mapbox-token.txt` file within the `tokens` folder.
 ### Environment
-Run the following code in terminal and use the `chicago` kernel to run the main.ipynb notebook:
+Run the following code in terminal and use the `chicago` kernel to run the [main.ipynb](https://github.com/sadatian/cse6242-team175/blob/main/main.ipynb) notebook:
 ```
 conda create -n chicago -c conda-forge python==3.8 -y;
 conda activate chicago;
