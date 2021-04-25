@@ -1,6 +1,6 @@
 # Crime Data ETL
 
-You can find an already processed copy of the necessary data for this project on [kaggle](https://www.kaggle.com/sadatian/chicago-crime-processed-team-175) by searching for 'cse6242-team175'. You can also run the [`clean-data.ipynb`](https://github.com/sadatian/cse6242-team175/blob/main/data/clean-data.ipynb) notebook in this folder in order to monitor the ETL process and reproduce the data required for the project. Consider this directory ([data](https://github.com/sadatian/cse6242-team175/tree/main/data)) as root for the purpose of instructions in this ETL. Prerequistes provided below are only for the ETL portion of this project.
+You can find an already processed copy of the necessary data for this project on [kaggle](https://www.kaggle.com/sadatian/chicago-crime-processed-team-175) by searching for 'cse6242-team175' and download the `crime-clean.csv` file into the data folder. You can also run the [`clean-data.ipynb`](https://github.com/sadatian/cse6242-team175/blob/main/data/clean-data.ipynb) notebook in this folder in order to monitor the ETL process and reproduce the data required for the project. Consider this directory ([data](https://github.com/sadatian/cse6242-team175/tree/main/data)) as root for the purpose of instructions in this ETL. Prerequistes provided below are only for the ETL portion of this project.
 
 ## Prerequisites
 #### Hardware
