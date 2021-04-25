@@ -10,5 +10,4 @@ json5==0.9.5
 geopy==2.1.0
 geocoder==1.38.1
 pickle5==0.0.11
-bs4==0.0.1
-pyzillow==0.7.0
+beautifulsoup4==4.9.1
