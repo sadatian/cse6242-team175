@@ -18,5 +18,8 @@ As long as you have the `nb_conda_kernels` package installed in your Jupyter env
 
 
 ## Team
-**Barsotz Bak**, **Jacob Bigham**, **Robert Clark**  
-**Dan Sadatian**, **Elliot Wright**
+**Barsotz Bak**  
+**Jacob Bigham**  
+**Robert Clark**  
+**Dan Sadatian**  
+**Elliot Wright**
