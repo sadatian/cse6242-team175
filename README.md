@@ -14,7 +14,7 @@ conda create -n chicago -c conda-forge python==3.8 -y;
 conda activate chicago;
 pip install -r requirements.txt
 ```
-As long as you have the `nb_conda_kernels` package installed in your Jupyter environment, you should be able to access `chicago` kernel inside the Jupyter.
+As long as you have the `nb_conda_kernels` package installed in your Jupyter environment, you should be able to access `chicago` kernel inside the Jupyter. We recommend using JupyterLab instead of Jupyter Notebook.
 
 ## Demo
 
