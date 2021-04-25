@@ -16,6 +16,10 @@ pip install -r requirements.txt
 ```
 As long as you have the `nb_conda_kernels` package installed in your Jupyter environment, you should be able to access `chicago` kernel inside the Jupyter.
 
+## Demo
+
+Basic Functionality  
+![demo1](https://github.com/sadatian/cse6242-team175/blob/main/residuals/demo1.gif)
 
 ## Team
 **Barsotz Bak**  
