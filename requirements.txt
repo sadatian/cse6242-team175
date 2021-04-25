@@ -1,0 +1,12 @@
+sklearn==0.24.1
+pandas==1.2.4
+geopandas==0.9.0
+numpy==1.20.2
+plotly==4.14.3
+dash==1.20.0
+json5==0.9.5
+geopy==2.1.0
+geocoder==1.38.1
+pickle5==0.0.11
+bs4==0.0.1
+pyzillow==0.7.0
