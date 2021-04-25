@@ -15,3 +15,8 @@ conda activate chicago;
 pip install -r requirements.txt
 ```
 As long as you have the `nb_conda_kernels` package installed in your Jupyter environment, you should be able to access `chicago` kernel inside the Jupyter.
+
+
+##Team
+**Barsotz Bak**, **Jacob Bigham**, **Robert Clark**
+**Dan Sadatian**, **Elliot Wright**
