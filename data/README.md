@@ -4,7 +4,7 @@ You must run the [`clean-data.ipynb`](https://github.com/sadatian/cse6242-team17
 
 ## Prerequisites
 #### Hardware
-Due to use of RAPIDS in this project you must run this notebook on a system with at least one [CUDA GPU](https://www.nvidia.com/en-us/geforce/technologies/cuda/supported-gpus/). 
+Due to use of RAPIDS in this part of the project you must run this notebook on a system with at least one [CUDA GPU](https://www.nvidia.com/en-us/geforce/technologies/cuda/supported-gpus/). 
 #### Software
 This notebook was developed and tested on WSL2 Ubuntu 18.04 within the following conda environment:
 ```
