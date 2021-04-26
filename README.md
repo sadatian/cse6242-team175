@@ -1,5 +1,5 @@
 # Crime and Settlement <br/> <sup>Chicago Crime Clustering and Real Estate Value</sup>
-## [CSE6242 - Team 175](https://github.com/sadatian/cse6242-team175/blob/main/README.md)
+## [CSE6242 - Team 175](https://github.com/sadatian/cse6242-team175/)
 
 
 ## Prerequisites
