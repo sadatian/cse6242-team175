@@ -6,7 +6,7 @@
 ### Data
 Please make sure the data prerequisites are met by following instructions presented in the `README.md` file [here](https://github.com/sadatian/cse6242-team175/tree/main/data).
 ### Tokens
-Please create a free [Mapbox account](https://account.mapbox.com/auth/signup/) and paste the value of your "Default public token" into the `mapbox-token.txt` file within the `tokens` folder.
+Please obtain Google API, Zillow API, and Mapbox API keys and place them in their approperiate files `*-token.txt` within the `tokens` folder.
 ### Environment
 Run the following code in terminal and use the `chicago` kernel to run the [`main.ipynb`](https://github.com/sadatian/cse6242-team175/blob/main/main.ipynb) notebook:
 ```
