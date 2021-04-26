@@ -3,8 +3,8 @@ import requests
 import geocoder
 from bs4 import BeautifulSoup
 from pyzillow.pyzillow import ZillowWrapper, GetDeepSearchResults
-os.environ["GOOGLE_API_KEY"] = "AIzaSyAPQfheOk6_w0kRF8x4ZE11CFzjLnwKrwk"
-os.environ['ZILLOW_API_KEY'] = 'X1-ZWz1835knufc3v_38l6u'
+os.environ["GOOGLE_API_KEY"] = open('tokens/google-token.txt').read()
+os.environ['ZILLOW_API_KEY'] = open('tokens/zillow-token.txt').read()
 
 def get_zillow_image(url):
     """
