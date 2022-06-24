@@ -2,11 +2,13 @@
 ## [CSE6242 - Team 175](https://github.com/sadatian/cse6242-team175/)
 
 ## Overview
-In this project we've developed an interactive presentation of the crime data in the city of Chicago. This project was designed to showcase two techniques:  
+In this project we've developed an interactive presentation of the crime data in the city of Chicago for (2010-2020). This project was designed to showcase two novel techniques:  
+&nbsp;&nbsp; [1.](https://github.com/sadatian/cse6242-team175/tree/main/data) Use of VRAM (GPU memory) and **embarrassingly parallel** approach for processing big data using [RAPIDS](https://rapids.ai/). </br>
+&nbsp;&nbsp; [2.](https://github.com/sadatian/cse6242-team175/blob/main/crime_clustering.py) GMM clustering sped up by a K-Means hybrid-step.
 
-[1)](https://github.com/sadatian/cse6242-team175/tree/main/data) Use of VRAM (GPU memory) and **embarrassingly parallel** approach to data processing using [RAPIDS](https://rapids.ai/).  
-
-[2)](https://github.com/sadatian/cse6242-team175/blob/main/crime_clustering.py) GMM clustering sped up by a K-Means hybrid-step.
+## Demo
+Basic Functionality  
+![demo1](https://github.com/sadatian/cse6242-team175/blob/main/residuals/demo1.gif)
 
 ## Prerequisites
 ### Data
